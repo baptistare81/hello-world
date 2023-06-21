@@ -1,3 +1,3 @@
 # hello-world
-#Author: Reinaldo Baptista
+# Author: Reinaldo Baptista
 Get started using GitHub
